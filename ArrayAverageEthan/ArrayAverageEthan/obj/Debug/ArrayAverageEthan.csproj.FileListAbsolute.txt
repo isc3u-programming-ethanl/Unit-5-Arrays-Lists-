@@ -1,0 +1,10 @@
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\ArrayAverageEthan\ArrayAverageEthan\bin\Debug\ArrayAverageEthan.exe.config
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\ArrayAverageEthan\ArrayAverageEthan\bin\Debug\ArrayAverageEthan.exe
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\ArrayAverageEthan\ArrayAverageEthan\bin\Debug\ArrayAverageEthan.pdb
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\ArrayAverageEthan\ArrayAverageEthan\obj\Debug\ArrayAverageEthan.csprojAssemblyReference.cache
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\ArrayAverageEthan\ArrayAverageEthan\obj\Debug\ArrayAverageEthan.frmArrayAverage.resources
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\ArrayAverageEthan\ArrayAverageEthan\obj\Debug\ArrayAverageEthan.Properties.Resources.resources
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\ArrayAverageEthan\ArrayAverageEthan\obj\Debug\ArrayAverageEthan.csproj.GenerateResource.cache
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\ArrayAverageEthan\ArrayAverageEthan\obj\Debug\ArrayAverageEthan.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\ArrayAverageEthan\ArrayAverageEthan\obj\Debug\ArrayAverageEthan.exe
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\ArrayAverageEthan\ArrayAverageEthan\obj\Debug\ArrayAverageEthan.pdb

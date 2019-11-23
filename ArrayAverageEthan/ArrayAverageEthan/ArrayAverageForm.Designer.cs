@@ -47,10 +47,12 @@
             // 
             // lstNumbers
             // 
+            this.lstNumbers.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lstNumbers.FormattingEnabled = true;
+            this.lstNumbers.ItemHeight = 20;
             this.lstNumbers.Location = new System.Drawing.Point(162, 98);
             this.lstNumbers.Name = "lstNumbers";
-            this.lstNumbers.Size = new System.Drawing.Size(301, 225);
+            this.lstNumbers.Size = new System.Drawing.Size(301, 224);
             this.lstNumbers.TabIndex = 1;
             // 
             // btnCalculate
@@ -78,7 +80,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(638, 450);
             this.Controls.Add(this.lblAverage);
             this.Controls.Add(this.btnCalculate);
             this.Controls.Add(this.lstNumbers);

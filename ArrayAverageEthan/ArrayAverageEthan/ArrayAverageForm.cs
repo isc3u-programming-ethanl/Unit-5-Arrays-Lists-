@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ * Created by: Ethan LeGault
+ * Created on: 11/22/19
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #36 - Introduction to Arrays
+ * This program randomly generates 10 numbers and then stores them in an array.
+ * It then displays them in the listbox and then the program calculates the average of all the numbers and displays it in a label.
+*/
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -26,7 +34,7 @@ namespace ArrayAverageEthan
             // declare local variables
             int randomNumber;
             int counter;
-            Random randomNumberGenerater = new Random();
+            Random randomNumberGenerator = new Random();
 
             // clear list box
             this.lstNumbers.Items.Clear();
