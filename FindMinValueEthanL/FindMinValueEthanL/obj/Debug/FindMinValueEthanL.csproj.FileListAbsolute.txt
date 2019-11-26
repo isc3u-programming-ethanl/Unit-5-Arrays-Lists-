@@ -1,0 +1,10 @@
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\FindMinValueEthanL\FindMinValueEthanL\bin\Debug\FindMinValueEthanL.exe.config
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\FindMinValueEthanL\FindMinValueEthanL\bin\Debug\FindMinValueEthanL.exe
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\FindMinValueEthanL\FindMinValueEthanL\bin\Debug\FindMinValueEthanL.pdb
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\FindMinValueEthanL\FindMinValueEthanL\obj\Debug\FindMinValueEthanL.csprojAssemblyReference.cache
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\FindMinValueEthanL\FindMinValueEthanL\obj\Debug\FindMinValueEthanL.frmFindMinValue.resources
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\FindMinValueEthanL\FindMinValueEthanL\obj\Debug\FindMinValueEthanL.Properties.Resources.resources
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\FindMinValueEthanL\FindMinValueEthanL\obj\Debug\FindMinValueEthanL.csproj.GenerateResource.cache
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\FindMinValueEthanL\FindMinValueEthanL\obj\Debug\FindMinValueEthanL.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\FindMinValueEthanL\FindMinValueEthanL\obj\Debug\FindMinValueEthanL.exe
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\FindMinValueEthanL\FindMinValueEthanL\obj\Debug\FindMinValueEthanL.pdb
