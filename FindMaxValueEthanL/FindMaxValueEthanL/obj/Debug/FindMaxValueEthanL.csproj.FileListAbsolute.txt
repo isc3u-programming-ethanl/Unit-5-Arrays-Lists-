@@ -1,0 +1,10 @@
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\FindMaxValueEthanL\FindMaxValueEthanL\obj\Debug\FindMaxValueEthanL.csprojAssemblyReference.cache
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\FindMaxValueEthanL\FindMaxValueEthanL\obj\Debug\FindMaxValueEthanL.frmFindMaxValue.resources
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\FindMaxValueEthanL\FindMaxValueEthanL\obj\Debug\FindMaxValueEthanL.Properties.Resources.resources
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\FindMaxValueEthanL\FindMaxValueEthanL\obj\Debug\FindMaxValueEthanL.csproj.GenerateResource.cache
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\FindMaxValueEthanL\FindMaxValueEthanL\obj\Debug\FindMaxValueEthanL.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\FindMaxValueEthanL\FindMaxValueEthanL\bin\Debug\FindMaxValueEthanL.exe.config
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\FindMaxValueEthanL\FindMaxValueEthanL\bin\Debug\FindMaxValueEthanL.exe
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\FindMaxValueEthanL\FindMaxValueEthanL\bin\Debug\FindMaxValueEthanL.pdb
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\FindMaxValueEthanL\FindMaxValueEthanL\obj\Debug\FindMaxValueEthanL.exe
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\FindMaxValueEthanL\FindMaxValueEthanL\obj\Debug\FindMaxValueEthanL.pdb
