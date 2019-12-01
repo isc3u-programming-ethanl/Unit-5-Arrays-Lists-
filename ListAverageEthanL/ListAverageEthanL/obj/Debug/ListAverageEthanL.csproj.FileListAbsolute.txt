@@ -1,0 +1,10 @@
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\ListAverageEthanL\ListAverageEthanL\obj\Debug\ListAverageEthanL.csprojAssemblyReference.cache
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\ListAverageEthanL\ListAverageEthanL\obj\Debug\ListAverageEthanL.frmListAverage.resources
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\ListAverageEthanL\ListAverageEthanL\obj\Debug\ListAverageEthanL.Properties.Resources.resources
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\ListAverageEthanL\ListAverageEthanL\obj\Debug\ListAverageEthanL.csproj.GenerateResource.cache
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\ListAverageEthanL\ListAverageEthanL\obj\Debug\ListAverageEthanL.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\ListAverageEthanL\ListAverageEthanL\bin\Debug\ListAverageEthanL.exe.config
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\ListAverageEthanL\ListAverageEthanL\bin\Debug\ListAverageEthanL.exe
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\ListAverageEthanL\ListAverageEthanL\bin\Debug\ListAverageEthanL.pdb
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\ListAverageEthanL\ListAverageEthanL\obj\Debug\ListAverageEthanL.exe
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\ListAverageEthanL\ListAverageEthanL\obj\Debug\ListAverageEthanL.pdb
