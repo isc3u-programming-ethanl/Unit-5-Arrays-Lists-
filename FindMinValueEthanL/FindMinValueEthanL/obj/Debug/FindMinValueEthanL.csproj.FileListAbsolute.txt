@@ -8,3 +8,13 @@ C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\FindMinValueEthanL\FindMinV
 C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\FindMinValueEthanL\FindMinValueEthanL\obj\Debug\FindMinValueEthanL.csproj.CoreCompileInputs.cache
 C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\FindMinValueEthanL\FindMinValueEthanL\obj\Debug\FindMinValueEthanL.exe
 C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\FindMinValueEthanL\FindMinValueEthanL\obj\Debug\FindMinValueEthanL.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 5 (Arrays & Lists)\FindMinValueEthanL\FindMinValueEthanL\bin\Debug\FindMinValueEthanL.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 5 (Arrays & Lists)\FindMinValueEthanL\FindMinValueEthanL\bin\Debug\FindMinValueEthanL.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 5 (Arrays & Lists)\FindMinValueEthanL\FindMinValueEthanL\bin\Debug\FindMinValueEthanL.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 5 (Arrays & Lists)\FindMinValueEthanL\FindMinValueEthanL\obj\Debug\FindMinValueEthanL.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 5 (Arrays & Lists)\FindMinValueEthanL\FindMinValueEthanL\obj\Debug\FindMinValueEthanL.frmFindMinValue.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 5 (Arrays & Lists)\FindMinValueEthanL\FindMinValueEthanL\obj\Debug\FindMinValueEthanL.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 5 (Arrays & Lists)\FindMinValueEthanL\FindMinValueEthanL\obj\Debug\FindMinValueEthanL.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 5 (Arrays & Lists)\FindMinValueEthanL\FindMinValueEthanL\obj\Debug\FindMinValueEthanL.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 5 (Arrays & Lists)\FindMinValueEthanL\FindMinValueEthanL\obj\Debug\FindMinValueEthanL.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 5 (Arrays & Lists)\FindMinValueEthanL\FindMinValueEthanL\obj\Debug\FindMinValueEthanL.pdb
