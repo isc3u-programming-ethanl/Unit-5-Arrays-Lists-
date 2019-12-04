@@ -8,3 +8,13 @@ C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\ListAverageEthanL\ListAvera
 C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\ListAverageEthanL\ListAverageEthanL\bin\Debug\ListAverageEthanL.pdb
 C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\ListAverageEthanL\ListAverageEthanL\obj\Debug\ListAverageEthanL.exe
 C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\ListAverageEthanL\ListAverageEthanL\obj\Debug\ListAverageEthanL.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 5 (Arrays & Lists)\ListAverageEthanL\ListAverageEthanL\bin\Debug\ListAverageEthanL.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 5 (Arrays & Lists)\ListAverageEthanL\ListAverageEthanL\bin\Debug\ListAverageEthanL.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 5 (Arrays & Lists)\ListAverageEthanL\ListAverageEthanL\bin\Debug\ListAverageEthanL.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 5 (Arrays & Lists)\ListAverageEthanL\ListAverageEthanL\obj\Debug\ListAverageEthanL.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 5 (Arrays & Lists)\ListAverageEthanL\ListAverageEthanL\obj\Debug\ListAverageEthanL.frmListAverage.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 5 (Arrays & Lists)\ListAverageEthanL\ListAverageEthanL\obj\Debug\ListAverageEthanL.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 5 (Arrays & Lists)\ListAverageEthanL\ListAverageEthanL\obj\Debug\ListAverageEthanL.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 5 (Arrays & Lists)\ListAverageEthanL\ListAverageEthanL\obj\Debug\ListAverageEthanL.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 5 (Arrays & Lists)\ListAverageEthanL\ListAverageEthanL\obj\Debug\ListAverageEthanL.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 5 (Arrays & Lists)\ListAverageEthanL\ListAverageEthanL\obj\Debug\ListAverageEthanL.pdb

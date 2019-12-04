@@ -76,7 +76,6 @@ namespace ListAverageEthanL
             {
                 MessageBox.Show("Please enter a number between 0 and 100.", "Invalid Number");
             }
-
         }
 
         private void BtnCalculate_Click(object sender, EventArgs e)
