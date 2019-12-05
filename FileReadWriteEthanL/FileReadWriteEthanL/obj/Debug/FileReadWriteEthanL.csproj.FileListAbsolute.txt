@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 5 (Arrays & Lists)\FileReadWriteEthanL\FileReadWriteEthanL\bin\Debug\FileReadWriteEthanL.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 5 (Arrays & Lists)\FileReadWriteEthanL\FileReadWriteEthanL\bin\Debug\FileReadWriteEthanL.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 5 (Arrays & Lists)\FileReadWriteEthanL\FileReadWriteEthanL\bin\Debug\FileReadWriteEthanL.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 5 (Arrays & Lists)\FileReadWriteEthanL\FileReadWriteEthanL\obj\Debug\FileReadWriteEthanL.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 5 (Arrays & Lists)\FileReadWriteEthanL\FileReadWriteEthanL\obj\Debug\FileReadWriteEthanL.frmFileReadWrite.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 5 (Arrays & Lists)\FileReadWriteEthanL\FileReadWriteEthanL\obj\Debug\FileReadWriteEthanL.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 5 (Arrays & Lists)\FileReadWriteEthanL\FileReadWriteEthanL\obj\Debug\FileReadWriteEthanL.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 5 (Arrays & Lists)\FileReadWriteEthanL\FileReadWriteEthanL\obj\Debug\FileReadWriteEthanL.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 5 (Arrays & Lists)\FileReadWriteEthanL\FileReadWriteEthanL\obj\Debug\FileReadWriteEthanL.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 5 (Arrays & Lists)\FileReadWriteEthanL\FileReadWriteEthanL\obj\Debug\FileReadWriteEthanL.pdb
