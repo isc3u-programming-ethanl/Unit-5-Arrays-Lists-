@@ -1,0 +1,10 @@
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\DealCardEthanL\DealCardEthanL\bin\Debug\DealCardEthanL.exe.config
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\DealCardEthanL\DealCardEthanL\bin\Debug\DealCardEthanL.exe
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\DealCardEthanL\DealCardEthanL\bin\Debug\DealCardEthanL.pdb
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\DealCardEthanL\DealCardEthanL\obj\Debug\DealCardEthanL.csprojAssemblyReference.cache
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\DealCardEthanL\DealCardEthanL\obj\Debug\DealCardEthanL.frmDealCard.resources
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\DealCardEthanL\DealCardEthanL\obj\Debug\DealCardEthanL.Properties.Resources.resources
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\DealCardEthanL\DealCardEthanL\obj\Debug\DealCardEthanL.csproj.GenerateResource.cache
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\DealCardEthanL\DealCardEthanL\obj\Debug\DealCardEthanL.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\DealCardEthanL\DealCardEthanL\obj\Debug\DealCardEthanL.exe
+C:\Users\ethan\Documents\GitHub\Unit-5-Arrays-Lists-\DealCardEthanL\DealCardEthanL\obj\Debug\DealCardEthanL.pdb
