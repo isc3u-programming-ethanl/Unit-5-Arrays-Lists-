@@ -28,73 +28,24 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.picCard1 = new System.Windows.Forms.PictureBox();
-            this.picCard2 = new System.Windows.Forms.PictureBox();
-            this.picCard3 = new System.Windows.Forms.PictureBox();
-            this.picCard4 = new System.Windows.Forms.PictureBox();
-            this.picCard5 = new System.Windows.Forms.PictureBox();
             this.picCard6 = new System.Windows.Forms.PictureBox();
-            ((System.ComponentModel.ISupportInitialize)(this.picCard1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picCard2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picCard3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picCard4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picCard5)).BeginInit();
+            this.picCard5 = new System.Windows.Forms.PictureBox();
+            this.picCard4 = new System.Windows.Forms.PictureBox();
+            this.picCard3 = new System.Windows.Forms.PictureBox();
+            this.picCard2 = new System.Windows.Forms.PictureBox();
+            this.picCard1 = new System.Windows.Forms.PictureBox();
+            this.lblCardTotal = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.picCard6)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picCard5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picCard4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picCard3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picCard2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picCard1)).BeginInit();
             this.SuspendLayout();
-            // 
-            // picCard1
-            // 
-            this.picCard1.Image = global::DealCardEthanL.Properties.Resources.AS;
-            this.picCard1.Location = new System.Drawing.Point(12, 68);
-            this.picCard1.Name = "picCard1";
-            this.picCard1.Size = new System.Drawing.Size(207, 214);
-            this.picCard1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.picCard1.TabIndex = 0;
-            this.picCard1.TabStop = false;
-            this.picCard1.Click += new System.EventHandler(this.PicCard1_Click);
-            // 
-            // picCard2
-            // 
-            this.picCard2.Location = new System.Drawing.Point(300, 68);
-            this.picCard2.Name = "picCard2";
-            this.picCard2.Size = new System.Drawing.Size(207, 214);
-            this.picCard2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.picCard2.TabIndex = 1;
-            this.picCard2.TabStop = false;
-            this.picCard2.Click += new System.EventHandler(this.PicCard2_Click);
-            // 
-            // picCard3
-            // 
-            this.picCard3.Location = new System.Drawing.Point(587, 68);
-            this.picCard3.Name = "picCard3";
-            this.picCard3.Size = new System.Drawing.Size(207, 214);
-            this.picCard3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.picCard3.TabIndex = 2;
-            this.picCard3.TabStop = false;
-            this.picCard3.Click += new System.EventHandler(this.PicCard3_Click);
-            // 
-            // picCard4
-            // 
-            this.picCard4.Location = new System.Drawing.Point(12, 346);
-            this.picCard4.Name = "picCard4";
-            this.picCard4.Size = new System.Drawing.Size(207, 214);
-            this.picCard4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.picCard4.TabIndex = 3;
-            this.picCard4.TabStop = false;
-            this.picCard4.Click += new System.EventHandler(this.PicCard4_Click);
-            // 
-            // picCard5
-            // 
-            this.picCard5.Location = new System.Drawing.Point(300, 346);
-            this.picCard5.Name = "picCard5";
-            this.picCard5.Size = new System.Drawing.Size(207, 214);
-            this.picCard5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.picCard5.TabIndex = 4;
-            this.picCard5.TabStop = false;
-            this.picCard5.Click += new System.EventHandler(this.PicCard5_Click);
             // 
             // picCard6
             // 
+            this.picCard6.Image = global::DealCardEthanL.Properties.Resources.yellow_back;
             this.picCard6.Location = new System.Drawing.Point(587, 346);
             this.picCard6.Name = "picCard6";
             this.picCard6.Size = new System.Drawing.Size(207, 214);
@@ -103,11 +54,77 @@
             this.picCard6.TabStop = false;
             this.picCard6.Click += new System.EventHandler(this.PicCard6_Click);
             // 
+            // picCard5
+            // 
+            this.picCard5.Image = global::DealCardEthanL.Properties.Resources.yellow_back;
+            this.picCard5.Location = new System.Drawing.Point(300, 346);
+            this.picCard5.Name = "picCard5";
+            this.picCard5.Size = new System.Drawing.Size(207, 214);
+            this.picCard5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picCard5.TabIndex = 4;
+            this.picCard5.TabStop = false;
+            this.picCard5.Click += new System.EventHandler(this.PicCard5_Click);
+            // 
+            // picCard4
+            // 
+            this.picCard4.Image = global::DealCardEthanL.Properties.Resources.yellow_back;
+            this.picCard4.Location = new System.Drawing.Point(12, 346);
+            this.picCard4.Name = "picCard4";
+            this.picCard4.Size = new System.Drawing.Size(207, 214);
+            this.picCard4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picCard4.TabIndex = 3;
+            this.picCard4.TabStop = false;
+            this.picCard4.Click += new System.EventHandler(this.PicCard4_Click);
+            // 
+            // picCard3
+            // 
+            this.picCard3.Image = global::DealCardEthanL.Properties.Resources.yellow_back;
+            this.picCard3.Location = new System.Drawing.Point(587, 68);
+            this.picCard3.Name = "picCard3";
+            this.picCard3.Size = new System.Drawing.Size(207, 214);
+            this.picCard3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picCard3.TabIndex = 2;
+            this.picCard3.TabStop = false;
+            this.picCard3.Click += new System.EventHandler(this.PicCard3_Click);
+            // 
+            // picCard2
+            // 
+            this.picCard2.Image = global::DealCardEthanL.Properties.Resources.yellow_back1;
+            this.picCard2.Location = new System.Drawing.Point(300, 68);
+            this.picCard2.Name = "picCard2";
+            this.picCard2.Size = new System.Drawing.Size(207, 214);
+            this.picCard2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picCard2.TabIndex = 1;
+            this.picCard2.TabStop = false;
+            this.picCard2.Click += new System.EventHandler(this.PicCard2_Click);
+            // 
+            // picCard1
+            // 
+            this.picCard1.Image = global::DealCardEthanL.Properties.Resources.yellow_back;
+            this.picCard1.Location = new System.Drawing.Point(12, 68);
+            this.picCard1.Name = "picCard1";
+            this.picCard1.Size = new System.Drawing.Size(207, 214);
+            this.picCard1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picCard1.TabIndex = 0;
+            this.picCard1.TabStop = false;
+            this.picCard1.Click += new System.EventHandler(this.PicCard1_Click);
+            // 
+            // lblCardTotal
+            // 
+            this.lblCardTotal.AutoSize = true;
+            this.lblCardTotal.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCardTotal.Location = new System.Drawing.Point(331, 9);
+            this.lblCardTotal.Name = "lblCardTotal";
+            this.lblCardTotal.Size = new System.Drawing.Size(91, 20);
+            this.lblCardTotal.TabIndex = 6;
+            this.lblCardTotal.Text = "Cards Left: ";
+            // 
             // frmDealCard
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(813, 603);
+            this.Controls.Add(this.lblCardTotal);
             this.Controls.Add(this.picCard6);
             this.Controls.Add(this.picCard5);
             this.Controls.Add(this.picCard4);
@@ -116,13 +133,15 @@
             this.Controls.Add(this.picCard1);
             this.Name = "frmDealCard";
             this.Text = "Deal Card by Ethan";
-            ((System.ComponentModel.ISupportInitialize)(this.picCard1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picCard2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picCard3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picCard4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picCard5)).EndInit();
+            this.Load += new System.EventHandler(this.FrmDealCard_Load);
             ((System.ComponentModel.ISupportInitialize)(this.picCard6)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picCard5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picCard4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picCard3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picCard2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picCard1)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -134,6 +153,7 @@
         private System.Windows.Forms.PictureBox picCard4;
         private System.Windows.Forms.PictureBox picCard5;
         private System.Windows.Forms.PictureBox picCard6;
+        private System.Windows.Forms.Label lblCardTotal;
     }
 }
 

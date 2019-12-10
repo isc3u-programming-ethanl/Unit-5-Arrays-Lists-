@@ -24,41 +24,30 @@ namespace FileReadWriteEthanL
             InitializeComponent();
         }
 
-        private bool StringsAreEqual(String one, String two)
+        private bool StringsAreEqual(String words, String v)
         {
             // declare local variables
             bool isEqual = false;
 
-            string string1;
-            string string2;
-
-            string1 = Convert.ToString(@"input.txt");
-            string2 = Convert.ToString(@"input.txt");
+            string[] arrayOfStrings = new string[10];
 
             int length1;
-            int length2;
 
-            length1 = string1.Length;
-            length2 = string2.Length;
+            length1 = arrayOfStrings.Length;
 
-            if (length1 == length2)
-            {
-                string1.ToUpper();
-                string2.ToUpper();
 
-                string1 = one;
-                string2 = two;
+            if (arrayOfStrings[0] == arrayOfStrings[1])
+            { 
+                arrayOfStrings[0] = words;
             }
-            if (string1 == string2)
+            if (arrayOfStrings[0] == arrayOfStrings[1])
             {
                 isEqual = true;
-                this.lblAnswer.Text = "These strings are equal.";
-                this.lblAnswer.Show();
+
             }
             else
             {
-                this.lblAnswer.Text = "These strings are NOT equal.";
-                this.lblAnswer.Show();
+                isEqual = false;
             }
             return isEqual;
         }
@@ -82,7 +71,7 @@ namespace FileReadWriteEthanL
                 // two words on the line
                 string[] words = line.Split(charSeparators, StringSplitOptions.RemoveEmptyEntries);
 
-                if (StringAreEqual(words[0], words[1]) == true)
+                if (StringsAreEqual(words[0], words[1]) == true)
                 {
                     // concatenate the output to the string. There must be \r\n so that it goes onto a new line in the text file
                     output = output + "True\r\n";
@@ -101,12 +90,10 @@ namespace FileReadWriteEthanL
 
             // show the label notifying the user that the process is done
             this.lblOutput.Show();
+            
+            string wordsFunct;
 
-            string one;
-            string two;
-
-            one = Convert.ToString(this.txtString1);
-            two = Convert.ToString(this.txtString2);
+            wordsFunct = Convert.ToString(@"input.txt");
         }
     }
 }

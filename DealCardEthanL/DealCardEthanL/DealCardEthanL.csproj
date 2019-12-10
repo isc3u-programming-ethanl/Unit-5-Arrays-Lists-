@@ -200,5 +200,386 @@
   <ItemGroup>
     <None Include="Resources\AS.JPG" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2C.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2D.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2H.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2S.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3C.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3D.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3H.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3S.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4C.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4D.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4H.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4S.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5C.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5D.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5H.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5S.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6C.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6D.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6H.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6S.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7C.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7D.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7H.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7S.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8C.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8D.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8H.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8S.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9C.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9D.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9H.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9S.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10C.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10D.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10H.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10S.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AC.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aces.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AH.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back_cards-07.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue_back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gray_back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green_back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\honor_clubs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\honor_diamond.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\honor_heart-14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\honors_spade-14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JC.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JH.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KC.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KH.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\purple_back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QC.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QH.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow_back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2C1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2D1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2H1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2S1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3C1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3D1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3H1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3S1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4C1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4D1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4H1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4S1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5C1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5D1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5H1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5S1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6C1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6D1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6H1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6S1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7C1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7D1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7H1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7S1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8C1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8D1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8H1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8S1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9C1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9D1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9H1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9S1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10C1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10D1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10H1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10S1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AC1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aces1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AD1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AH1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AS1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back_cards-071.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue_back1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gray_back1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green_back1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\honor_clubs1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\honor_diamond1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\honor_heart-141.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\honors_spade-141.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JC1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JD1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JH1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JS1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KC1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KD1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KH1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KS1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\purple_back1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QC1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QD1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QH1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QS1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_back1.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
