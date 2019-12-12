@@ -86,6 +86,7 @@
             this.Controls.Add(this.lblHeading);
             this.Name = "frmFileReadWrite";
             this.Text = "File Read/Write by Ethan";
+            this.Load += new System.EventHandler(this.FrmFileReadWrite_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

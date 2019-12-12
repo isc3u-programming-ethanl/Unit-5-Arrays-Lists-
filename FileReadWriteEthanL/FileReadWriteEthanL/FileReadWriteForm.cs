@@ -3,7 +3,8 @@
  * Created on: 12/04/19
  * Created for: ICS3U Programming
  * Daily Assignment – Day #41 - File Read/Write
- * This program...
+ * This program compares 2 strings line by line in an "input.txt" file. 
+ * It will output to an "output.txt" file saying line by line "True" meaning equal. OR "False" meaning not equal.
 */
 using System;
 using System.Collections.Generic;
@@ -24,31 +25,35 @@ namespace FileReadWriteEthanL
             InitializeComponent();
         }
 
-        private bool StringsAreEqual(String words, String v)
+        public bool StringsAreEqual(String one, String two)
         {
             // declare local variables
             bool isEqual = false;
 
-            string[] arrayOfStrings = new string[10];
+            string string1;
+            string string2;
 
             int length1;
+            int length2;
 
-            length1 = arrayOfStrings.Length;
+            length1 = one.Length;
+            length2 = two.Length;
 
-
-            if (arrayOfStrings[0] == arrayOfStrings[1])
-            { 
-                arrayOfStrings[0] = words;
-            }
-            if (arrayOfStrings[0] == arrayOfStrings[1])
+            // if the length of the first string is equal to the length of the second string
+            // convert string1 and string2 to uppercase (or lowercase)
+            if (length1 == length2)
             {
-                isEqual = true;
+                string1 = one.ToUpper();
+                string2 = two.ToUpper();
 
+                // if string1 is equal to string2
+                if (string1 == string2)
+                {
+                    // set isEqual to true
+                    isEqual = true;
+                }
             }
-            else
-            {
-                isEqual = false;
-            }
+            // return the isEqual value
             return isEqual;
         }
 
@@ -91,9 +96,11 @@ namespace FileReadWriteEthanL
             // show the label notifying the user that the process is done
             this.lblOutput.Show();
             
-            string wordsFunct;
+        }
 
-            wordsFunct = Convert.ToString(@"input.txt");
+        private void FrmFileReadWrite_Load(object sender, EventArgs e)
+        {
+            this.lblOutput.Hide();
         }
     }
 }
